@@ -1,0 +1,111 @@
+div {
+	background-color: #ff8b3d;
+	width: 390px;
+	height: 844px;
+}
+
+header {
+	font-size: 100px;
+	text-align: center;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-decoration: bold;
+}
+
+#query {
+	font-size:30px;
+	width: 70%;
+	height: 40px;
+	border-radius: 15px;
+	border-color: #d4d4d4;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	
+}
+
+#add {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #ff6600;
+	border-color: #d4d4d4;
+	background-color: #white;
+	font-size: 30px;
+	border-radius: 15px;
+}
+
+#add:hover {
+	background-color:#ff6600;
+	color: white;
+}
+
+ul {
+	display: inline;
+	margin: 0px;
+	padding: 0;
+	width: 40%;
+	list-style: none;
+}
+
+li {
+	margin: 10px;
+	padding: 5px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #757575;
+	background: white;
+	text-decoration: none;
+	border-radius: 15px;
+	border-color: #d4d4d4;
+	float: left;
+	font-size: 25px
+}
+
+#x {
+	background-color: white;
+	font-size: 20px;
+	width: 30px;
+	border-radius: 60%;
+	border-color: white;
+	color: red;
+}
+
+#submit {
+	position: absolute;
+	text-decoration: none;
+	bottom: 10px;
+	left: 20px;
+	color: white;
+	font-size:30px;
+	padding: 10px;
+	border-radius: 15px;
+	border-color:white;
+	background-color: #ff6600;
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+#submit:hover {
+	text-decoration: none;
+	background-color: white;
+	border-color:#ff6600;
+	color: #ff6600;
+}
+
+#back {
+	position: absolue;
+	top:10px;
+	left: 20px;
+	background-color: white;
+	font-size: 40px;
+	width: 60px;
+	border-radius: 60%;
+	border-color: white;
+	color: red;
+}
+
+#list {
+	background-color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #ff6600;
+	width: 100%;
+	height: 20%;
+	
+}
